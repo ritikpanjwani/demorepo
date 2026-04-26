@@ -1,4 +1,4 @@
 # demorepo
-A trial repository \n
+A trial repository <br>
 author: Ritik Panjwani
 Roll No. 41
